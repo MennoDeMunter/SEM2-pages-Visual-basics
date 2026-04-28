@@ -36,3 +36,5 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+toelichting: Voor de homepage heb ik gekozen voor een simpele en duidelijke layout. Ik heb dezelfde stijl gebruikt als bij de artikels zodat alles goed bij elkaar past. De artikels staan overzichtelijk onder elkaar met een titel, afbeelding en korte tekst, zodat je snel kan zien waar het over gaat. Ik heb het bewust rustig gehouden zodat de focus op de inhoud ligt en de website makkelijk leesbaar is.
