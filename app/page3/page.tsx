@@ -19,6 +19,16 @@ export default function Artikel1() {
           </div>
         </header>
 
+
+        {/* Afbeelding direct onder de titel - save the provided file as public/afeelding 1.png */}
+          <div className="mt-4 w-full flex justify-center">
+            <img
+              src="/afbeelding3.png"
+              alt="afbeelding3.png"
+              className="rounded-lg max-w-full h-auto object-cover"
+            />
+          </div>
+
         {/* Introductie */}
         <p className="text-gray-800 leading-relaxed text-lg">
           Waarom zou je een app gebruiken die geld kost of een abonnement vereist, en toch niet

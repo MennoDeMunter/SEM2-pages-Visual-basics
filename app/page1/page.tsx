@@ -10,6 +10,15 @@ export default function Artikel1() {
             “Ik ben Spartacus!”-moment van Silicon Valley?
           </h1>
 
+          {/* Afbeelding direct onder de titel - save the provided file as public/afeelding 1.png */}
+          <div className="mt-4 w-full flex justify-center">
+            <img
+              src="/afeelding 1.png"
+              alt="afeelding 1.png"
+              className="rounded-lg max-w-full h-auto object-cover"
+            />
+          </div>
+
           <p className="text-gray-600 text-sm">
             Dominique Deckmyn — 13 maart 2026 om 23:59
           </p>

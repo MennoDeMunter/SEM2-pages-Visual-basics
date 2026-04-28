@@ -16,6 +16,16 @@ export default function Artikel1() {
           </div>
         </header>
         {/* Introductie */}
+
+        {/* Afbeelding direct onder de titel - save the provided file as public/afeelding 1.png */}
+          <div className="mt-4 w-full flex justify-center">
+            <img
+              src="/afbeelding 2.png"
+              alt="afbeelding 2.png"
+              className="rounded-lg max-w-full h-auto object-cover"
+            />
+          </div>
+
         <p className="text-gray-800 leading-relaxed text-lg">
           Schattige katten, gegenereerd door AI. © youtube
         </p>
